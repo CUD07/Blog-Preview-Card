@@ -122,3 +122,11 @@ article
 {
     font-size: 15px;
 }
+
+@media(max-width: 350px)
+{
+    .card-cont
+    {
+        transform: scale(.9);
+    }
+}
