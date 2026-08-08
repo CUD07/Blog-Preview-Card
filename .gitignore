@@ -19,4 +19,4 @@
 # Avoid unecessary files in git repo 
 AGENTS.md
 CLAUDE.md
-style-guide.md 
+style-guide.md
